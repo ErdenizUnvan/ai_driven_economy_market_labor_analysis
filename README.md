@@ -1,7 +1,7 @@
 # ai_driven_economy_market_vs_labor_analysis
 
 This repository examines how artificial intelligence is reshaping the dynamics between the U.S. financial markets and the labor market.
-Using 10 years of historical data from the S&P 500 Index and U.S. Job Openings (JOLTS), the project applies Facebook Prophet to generate 12-month forecasts for both indicators. The analysis reveals a structural divergence: while job openings continue to decline, the S&P 500 maintains a strong upward trajectory driven by AI-enabled productivity, automation, and capital investment in compute-intensive sectors.
+Using 10 years of historical data from the S&P 500 Index and U.S. Job Openings (JTSJOL), the project applies Facebook Prophet to generate 12-month forecasts for both indicators. The analysis reveals a structural divergence: while job openings continue to decline, the S&P 500 maintains a strong upward trajectory driven by AI-enabled productivity, automation, and capital investment in compute-intensive sectors.
 
 The repository includes:
 
